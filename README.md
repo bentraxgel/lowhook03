@@ -27,17 +27,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lowhook03">
-    <img style="margin-left:0.5rem; margin-right:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lowhook03&show_icons=true&theme=shades-of-purple&hide_border=true" />
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbvqqcas00060fla8r4diiz6/stats?cursusId=21&coalitionId=87" alt="junlee2's 42 stats" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/lowhook03">
+    <img style="margin-left:0.5rem; margin-right:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lowhook03&show_icons=true&theme=shades-of-purple&hide_border=true" />
     <img style="margin-left:0.5rem; margin-right:0.5rem" src="https://github-readme-streak-stats.herokuapp.com?user=lowhook03&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Atomys's GitHub Stats" />
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/lowhook03">
-    <img style="margin-left:0.5rem; margin-right:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=lowhook03&show_icons=true&layout=compact&theme=shades-of-purple&hide_border=true" alt="Atomys's GitHub Stats" />
+  <a href="https://github.com/JaeSeoKim/badge42"><img style="margin-left:0.5rem; margin-right:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=lowhook03&show_icons=true&layout=compact&theme=shades-of-purple&hide_border=true" alt="Atomys's GitHub Stats" />
   </a>
 </p>
