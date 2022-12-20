@@ -23,7 +23,7 @@
 <br/>
 <h2 align="center">📈 Some statistics</h2>
 <p align="center">
-  <small style="font-size: 75%; font-weight: normal;">Because everyone does it Why not? Let's not be stubborn.</small>
+  <small style="font-size: 75%; font-weight: normal;">Is there any reason not to do it when everyone does it?</small>
 </p>
 
 <p align="center">
